@@ -1,5 +1,5 @@
 
-
+// start js
 let turn = "x";
 let title = document.querySelector(".title");
 let squares =[];
